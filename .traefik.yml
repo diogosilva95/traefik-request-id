@@ -1,0 +1,8 @@
+displayName: Request ID
+type: middleware
+import: https://github.com/diogosilva95/traefik-request-id
+summary: Adds a unique 32-char hex X-Request-ID and X-Correlation-ID header to every request.
+
+testData:
+  requestHeaderName: X-Request-ID
+  correlationHeaderName: X-Correlation-ID

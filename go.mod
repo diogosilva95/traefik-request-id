@@ -1,3 +1,3 @@
-module github.com/stunbet/traefik-requestid
+module github.com/diogosilva95/traefik-request-id
 
-go 1.26.3
+go 1.23
